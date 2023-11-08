@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HPBar
+  - TurretHead
+  - TurretBarrel
+  - EnemyGroup
+  - Projectile
+  - MoneyDisplay
+  - Controller
+  - Segments
+  - Node
+  - TimeButtonController
+  - Spawner
+  - WaveCounter
+  - RestartButton
+  - AutoPlayButton
+  - Turret
+  - DeathParticle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Turret
+  - Bullet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BKG
+    uniqueID: 2866139091
+    locked: 0
+  - name: Element
+    uniqueID: 1678083675
+    locked: 0
